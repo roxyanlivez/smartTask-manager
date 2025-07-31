@@ -2,6 +2,7 @@
 ---
 
 # 📌 README for **SmartTask Manager**
+# License: This project is open-source and free to use
 
 ```markdown
 # 📱 SmartTask Manager
